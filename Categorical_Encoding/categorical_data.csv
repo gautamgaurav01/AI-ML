@@ -1,0 +1,31 @@
+CustomerID,Gender,Education,City,MaritalStatus,ProductCategory,AgeGroup,SatisfactionRating,Purchased
+1,Male,Bachelor's,New York,Single,Electronics,Young Adult,High,Yes
+2,Female,Master's,Los Angeles,Married,Clothing,Adult,Medium,No
+3,Male,PhD,Chicago,Divorced,Food,Senior,Low,Yes
+4,Female,High School,Houston,Single,Electronics,Young Adult,High,Yes
+5,Male,Bachelor's,Phoenix,Married,Clothing,Adult,Medium,No
+6,Female,Master's,Philadelphia,Single,Food,Young Adult,Low,Yes
+7,Male,High School,San Antonio,Married,Electronics,Senior,High,No
+8,Female,Bachelor's,San Diego,Divorced,Clothing,Adult,Medium,Yes
+9,Male,PhD,Dallas,Single,Food,Young Adult,Low,No
+10,Female,Master's,San Jose,Married,Electronics,Senior,High,Yes
+11,Male,Bachelor's,Austin,Single,Clothing,Adult,Medium,Yes
+12,Female,High School,Jacksonville,Divorced,Food,Young Adult,Low,No
+13,Male,Master's,Fort Worth,Married,Electronics,Senior,High,Yes
+14,Female,PhD,Columbus,Single,Clothing,Adult,Medium,No
+15,Male,High School,Charlotte,Married,Food,Young Adult,Low,Yes
+16,Female,Bachelor's,Indianapolis,Divorced,Electronics,Senior,High,Yes
+17,Male,Master's,San Francisco,Single,Clothing,Adult,Medium,No
+18,Female,PhD,Seattle,Married,Food,Young Adult,Low,Yes
+19,Male,High School,Denver,Single,Electronics,Senior,High,No
+20,Female,Bachelor's,Nashville,Divorced,Clothing,Adult,Medium,Yes
+21,Male,Master's,Oklahoma City,Married,Food,Young Adult,Low,Yes
+22,Female,High School,El Paso,Single,Electronics,Senior,High,No
+23,Male,PhD,Boston,Divorced,Clothing,Adult,Medium,Yes
+24,Female,Bachelor's,Portland,Married,Food,Young Adult,Low,No
+25,Male,Master's,Las Vegas,Single,Electronics,Senior,High,Yes
+26,Female,High School,Memphis,Divorced,Clothing,Adult,Medium,Yes
+27,Male,Bachelor's,Louisville,Married,Food,Young Adult,Low,No
+28,Female,PhD,Baltimore,Single,Electronics,Senior,High,Yes
+29,Male,Master's,Milwaukee,Divorced,Clothing,Adult,Medium,No
+30,Female,High School,Albuquerque,Married,Food,Young Adult,Low,Yes
